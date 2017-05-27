@@ -1,0 +1,64 @@
+.navbar .collapse .nav a {
+    color: #111e61;
+}
+
+.navbar .collapse .nav a:hover {
+    color: #3e4fa9;
+}
+
+.nav .active {
+    background-color: #fff;
+    color: #111e61;
+}
+
+#watch .right {
+    background-color: #e61322;
+}
+
+#product .left {
+    background-color: #e61322;
+}
+
+#product .left hr {
+    background-color: #b70d1a;
+}
+
+#product .left .description-left {
+    color: #780000;
+}
+
+#product .right {
+    background-color: #e61322;
+}
+
+#delivery .container {
+    background-color: #e61322;
+}
+
+#delivery .delivery-icon {
+    background-color: #86000a;
+}
+
+#video .container {
+    background-color: #86000a;
+}
+
+#video .container .row .description {
+    color: #ff6060;
+}
+
+#comments .container {
+    background-color: #e61322;
+}
+
+#buy .container {
+    color: #86000a;
+}
+
+#buy .container .row .tile {
+    background-color: #86000a;
+}
+
+#about-us .container {
+    background-color: #86000a;
+}

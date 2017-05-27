@@ -1,0 +1,372 @@
+.navbar-brand img {
+    max-height: 35px;
+}
+
+.navbar-brand {
+    margin-bottom: 16px;
+    padding-left: 50px;
+}
+
+.navbar {
+    background-color: #fff;
+    border-bottom: 3px solid #fff1f1;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar .collapse .nav a {
+    font-size: 12pt;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 22px;
+}
+
+.nav .active {
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar-header .color-buttons {
+    float: right;
+    margin-top: 17px;
+    margin-left: 20px;
+}
+.navbar-header .color-buttons button {
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.btn-blue {
+    background-color: #1b286b;
+}
+
+.btn-red {
+    background-color: #ce221e;
+}
+
+.btn-black {
+    background-color: #000;
+}
+
+.btn-lg {
+    background-color: #fff;
+    color: #3b3b3b;
+    text-transform: uppercase;
+}
+
+#watch {
+    margin-top: 60px;
+}
+
+#watch .left {
+    padding: 60px;
+}
+
+#watch .right {
+    text-align: center;
+    padding: 20px 20px 70px 20px;
+    border-radius: 0px 0px 0px 50px;
+}
+
+#watch .right img {
+    position: relative;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+}
+
+#watch .right .logo-container {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#product .left {
+    padding: 20px 80px 20px 80px;
+    border-radius: 0px 50px 0px 0px;
+}
+
+#product .left .logo-container {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#product .left .description {
+    font-size: 14pt;
+    color: #fff;
+}
+
+#product .left .price {
+    padding-top: 20px;
+    color: #fff;
+    font-size: 40pt;
+    font-weight: bold;
+}
+
+#product .left hr {
+    height: 6px;
+    border: none;
+}
+
+#product .left .row {
+    margin-bottom: 10px;
+}
+
+#product .left .description-left {
+    font-size: 13pt;
+}
+
+#product .left .description-right {
+    font-size: 13pt;
+    color: #fff;
+}
+
+#product .left .order-btn {
+    margin-top: 50px;
+    text-align: center;
+}
+
+#product .right img {
+    position: relative;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+}
+
+#product > .container > .row{
+    display: table;
+}
+
+#product > .container > .row > [class*="col-"] {
+    float: none;
+    display: table-cell;
+    vertical-align: top;
+}
+
+#product .row {
+}
+
+#product .right {
+    padding: 0px;
+}
+
+#product .right .overlay {
+    background-color: #fff;
+    border-radius: 0px 0px 0px 50px;
+    margin: 0px;
+}
+
+#delivery .container {
+    font-size: 20pt;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#delivery .container .title {
+    margin-top: 60px;
+    text-transform: uppercase;
+}
+
+#delivery .container .row .title {
+    font-size: 14pt;
+    text-align: center;
+}
+
+#delivery .container .row .title img {
+    margin-bottom: 30px;
+}
+
+#delivery .container .row {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#delivery .delivery-icon {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+#video .container {
+    padding: 80px 40px 80px 40px;
+}
+
+#video .container .row .title {
+    font-size: 20pt;
+    color: #fff;
+    text-align: center;
+}
+
+#video .container .row .description {
+    font-size: 15pt;
+    text-align: center;
+    padding: 60px;
+}
+
+#video .container .row .video {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#video .container .row .video img {
+    border-radius: 3%;
+}
+
+#comments .container {
+    padding: 60px 40px 40px 40px;
+}
+
+#comments-carousel {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+#comments .container .title {
+    font-size: 20pt;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#comments .container #comments-carousel .row img {
+    margin-bottom: 30px;
+    border-radius: 50%;
+    max-height: 140px;
+    max-width: 140px;
+}
+
+#comments .container #comments-carousel .row {
+    color: #fff;
+    margin: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#comments .container #comments-carousel .row .content {
+    font-size: 12pt;
+    padding-left: 50px;
+    text-align: left;
+}
+
+#buy .container {
+    background-color: #fff;
+    font-size: 20pt;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+#buy .container .title {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+}
+
+#buy .container .row .tile {
+    margin: 10px;
+    color: #fff;
+    padding: 40px;
+    height: 320px;
+    border-radius: 8% 8% 0% 0%;
+}
+
+#buy .container .row .tile img {
+    padding-bottom: 35px;
+}
+
+#about-us .container {
+    font-size: 20pt;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+#about-us .container .title {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+}
+
+#about-us .container .description {
+    font-size: 14pt;
+    text-align: center;
+    padding-bottom: 40px;
+    width: 60%;
+}
+
+#about-us .container .image {
+    text-align: center;
+    width: 80%;
+}
+
+@media (max-width: 991px) {
+    #product .left .description-left {
+        font-size: 18pt;
+    }
+
+    #product .left .description-right {
+        font-size: 18pt;
+    }
+
+    #product .left .logo-container img {
+        position: relative;
+        margin: auto;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        padding: 20px;
+    }
+
+    #product .left {
+        border-radius: 0px;
+    }
+
+    #watch .right {
+        border-radius: 50px 50px 0px 0px;
+    }
+
+    #product .left {
+        padding-bottom: 50px;
+        border-radius: 0px 0px 50px 50px;
+    }
+
+    #product .row{
+        display: block;
+    }
+
+    #product > .container > .row{
+        display: block;
+    }
+
+    #product > .container > .row > [class*="col-"] {
+        float: left;
+        display: block;
+    }
+}
+
+#watch .row [class*='col-']:last-child {
+    margin-right:-1px;
+    margin-left:1px;
+}
